@@ -29,8 +29,10 @@ Play Rock-Paper-Scissors using your **hand gestures** detected via webcam using 
 ## 📄 License
 
 This project is licensed under the **MIT License**.  
-It also uses Google’s [MediaPipe](https://github.com/google/mediapipe) library,  
-which is licensed under the **Apache License 2.0**.
+This project includes portions of code from Google’s [MediaPipe](https://github.com/google/mediapipe),
+which is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
+---
 
 ## 👤 Author
 
