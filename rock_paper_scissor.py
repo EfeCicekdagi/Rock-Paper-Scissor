@@ -74,6 +74,8 @@ while True:
 
         #This is the game start screen where the start command is given.
     if not game_started:
+        player_score = 0
+        computer_score = 0
         cv2.putText(frame , "Press 's' to start the game",(50,50),font,0.8,(255, 255, 255), 2)
         cv2.imshow("Rock-Paper-Scissor", frame)
         key = cv2.waitKey(1)
